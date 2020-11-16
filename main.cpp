@@ -1,5 +1,5 @@
 #include <iostream>
-#include "functionality.cpp"
+#include "functionality.h"
 
 
 int main() {

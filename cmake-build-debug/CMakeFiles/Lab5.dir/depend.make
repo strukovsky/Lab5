@@ -3,6 +3,6 @@
 
 CMakeFiles/Lab5.dir/functionality.cpp.o: ../functionality.cpp
 
-CMakeFiles/Lab5.dir/main.cpp.o: ../functionality.cpp
+CMakeFiles/Lab5.dir/main.cpp.o: ../functionality.h
 CMakeFiles/Lab5.dir/main.cpp.o: ../main.cpp
 

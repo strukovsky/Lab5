@@ -12,9 +12,13 @@ iostream
 cstdlib
 -
 
+/home/strukovsky/CLionProjects/Lab5/functionality.h
+iostream
+-
+
 /home/strukovsky/CLionProjects/Lab5/main.cpp
 iostream
 -
-functionality.cpp
-/home/strukovsky/CLionProjects/Lab5/functionality.cpp
+functionality.h
+/home/strukovsky/CLionProjects/Lab5/functionality.h
 
